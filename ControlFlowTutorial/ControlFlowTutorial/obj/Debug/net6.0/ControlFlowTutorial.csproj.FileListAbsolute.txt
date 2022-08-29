@@ -1,0 +1,15 @@
+C:\repos\C#\ControlFlowTutorial\ControlFlowTutorial\bin\Debug\net6.0\ControlFlowTutorial.exe
+C:\repos\C#\ControlFlowTutorial\ControlFlowTutorial\bin\Debug\net6.0\ControlFlowTutorial.deps.json
+C:\repos\C#\ControlFlowTutorial\ControlFlowTutorial\bin\Debug\net6.0\ControlFlowTutorial.runtimeconfig.json
+C:\repos\C#\ControlFlowTutorial\ControlFlowTutorial\bin\Debug\net6.0\ControlFlowTutorial.dll
+C:\repos\C#\ControlFlowTutorial\ControlFlowTutorial\bin\Debug\net6.0\ControlFlowTutorial.pdb
+C:\repos\C#\ControlFlowTutorial\ControlFlowTutorial\obj\Debug\net6.0\ControlFlowTutorial.csproj.AssemblyReference.cache
+C:\repos\C#\ControlFlowTutorial\ControlFlowTutorial\obj\Debug\net6.0\ControlFlowTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\ControlFlowTutorial\ControlFlowTutorial\obj\Debug\net6.0\ControlFlowTutorial.AssemblyInfoInputs.cache
+C:\repos\C#\ControlFlowTutorial\ControlFlowTutorial\obj\Debug\net6.0\ControlFlowTutorial.AssemblyInfo.cs
+C:\repos\C#\ControlFlowTutorial\ControlFlowTutorial\obj\Debug\net6.0\ControlFlowTutorial.csproj.CoreCompileInputs.cache
+C:\repos\C#\ControlFlowTutorial\ControlFlowTutorial\obj\Debug\net6.0\ControlFlowTutorial.dll
+C:\repos\C#\ControlFlowTutorial\ControlFlowTutorial\obj\Debug\net6.0\refint\ControlFlowTutorial.dll
+C:\repos\C#\ControlFlowTutorial\ControlFlowTutorial\obj\Debug\net6.0\ControlFlowTutorial.pdb
+C:\repos\C#\ControlFlowTutorial\ControlFlowTutorial\obj\Debug\net6.0\ControlFlowTutorial.genruntimeconfig.cache
+C:\repos\C#\ControlFlowTutorial\ControlFlowTutorial\obj\Debug\net6.0\ref\ControlFlowTutorial.dll

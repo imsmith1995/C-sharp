@@ -1,0 +1,15 @@
+C:\repos\C#\ArrayTutorialSolution\ArrayTutorial\bin\Debug\net6.0\ArrayTutorial.exe
+C:\repos\C#\ArrayTutorialSolution\ArrayTutorial\bin\Debug\net6.0\ArrayTutorial.deps.json
+C:\repos\C#\ArrayTutorialSolution\ArrayTutorial\bin\Debug\net6.0\ArrayTutorial.runtimeconfig.json
+C:\repos\C#\ArrayTutorialSolution\ArrayTutorial\bin\Debug\net6.0\ArrayTutorial.dll
+C:\repos\C#\ArrayTutorialSolution\ArrayTutorial\bin\Debug\net6.0\ArrayTutorial.pdb
+C:\repos\C#\ArrayTutorialSolution\ArrayTutorial\obj\Debug\net6.0\ArrayTutorial.csproj.AssemblyReference.cache
+C:\repos\C#\ArrayTutorialSolution\ArrayTutorial\obj\Debug\net6.0\ArrayTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\ArrayTutorialSolution\ArrayTutorial\obj\Debug\net6.0\ArrayTutorial.AssemblyInfoInputs.cache
+C:\repos\C#\ArrayTutorialSolution\ArrayTutorial\obj\Debug\net6.0\ArrayTutorial.AssemblyInfo.cs
+C:\repos\C#\ArrayTutorialSolution\ArrayTutorial\obj\Debug\net6.0\ArrayTutorial.csproj.CoreCompileInputs.cache
+C:\repos\C#\ArrayTutorialSolution\ArrayTutorial\obj\Debug\net6.0\ArrayTutorial.dll
+C:\repos\C#\ArrayTutorialSolution\ArrayTutorial\obj\Debug\net6.0\refint\ArrayTutorial.dll
+C:\repos\C#\ArrayTutorialSolution\ArrayTutorial\obj\Debug\net6.0\ArrayTutorial.pdb
+C:\repos\C#\ArrayTutorialSolution\ArrayTutorial\obj\Debug\net6.0\ArrayTutorial.genruntimeconfig.cache
+C:\repos\C#\ArrayTutorialSolution\ArrayTutorial\obj\Debug\net6.0\ref\ArrayTutorial.dll
