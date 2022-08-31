@@ -1,0 +1,15 @@
+C:\repos\C#\FunctionsTutorial\FunctionsTutorial\obj\Debug\net6.0\FunctionsTutorial.csproj.AssemblyReference.cache
+C:\repos\C#\FunctionsTutorial\FunctionsTutorial\obj\Debug\net6.0\FunctionsTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\FunctionsTutorial\FunctionsTutorial\obj\Debug\net6.0\FunctionsTutorial.AssemblyInfoInputs.cache
+C:\repos\C#\FunctionsTutorial\FunctionsTutorial\obj\Debug\net6.0\FunctionsTutorial.AssemblyInfo.cs
+C:\repos\C#\FunctionsTutorial\FunctionsTutorial\obj\Debug\net6.0\FunctionsTutorial.csproj.CoreCompileInputs.cache
+C:\repos\C#\FunctionsTutorial\FunctionsTutorial\bin\Debug\net6.0\FunctionsTutorial.exe
+C:\repos\C#\FunctionsTutorial\FunctionsTutorial\bin\Debug\net6.0\FunctionsTutorial.deps.json
+C:\repos\C#\FunctionsTutorial\FunctionsTutorial\bin\Debug\net6.0\FunctionsTutorial.runtimeconfig.json
+C:\repos\C#\FunctionsTutorial\FunctionsTutorial\bin\Debug\net6.0\FunctionsTutorial.dll
+C:\repos\C#\FunctionsTutorial\FunctionsTutorial\bin\Debug\net6.0\FunctionsTutorial.pdb
+C:\repos\C#\FunctionsTutorial\FunctionsTutorial\obj\Debug\net6.0\FunctionsTutorial.dll
+C:\repos\C#\FunctionsTutorial\FunctionsTutorial\obj\Debug\net6.0\refint\FunctionsTutorial.dll
+C:\repos\C#\FunctionsTutorial\FunctionsTutorial\obj\Debug\net6.0\FunctionsTutorial.pdb
+C:\repos\C#\FunctionsTutorial\FunctionsTutorial\obj\Debug\net6.0\FunctionsTutorial.genruntimeconfig.cache
+C:\repos\C#\FunctionsTutorial\FunctionsTutorial\obj\Debug\net6.0\ref\FunctionsTutorial.dll

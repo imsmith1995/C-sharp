@@ -1,0 +1,15 @@
+C:\repos\C#\FibonacciNumbers\FibonacciNumbers\bin\Debug\net6.0\FibonacciNumbers.exe
+C:\repos\C#\FibonacciNumbers\FibonacciNumbers\bin\Debug\net6.0\FibonacciNumbers.deps.json
+C:\repos\C#\FibonacciNumbers\FibonacciNumbers\bin\Debug\net6.0\FibonacciNumbers.runtimeconfig.json
+C:\repos\C#\FibonacciNumbers\FibonacciNumbers\bin\Debug\net6.0\FibonacciNumbers.dll
+C:\repos\C#\FibonacciNumbers\FibonacciNumbers\bin\Debug\net6.0\FibonacciNumbers.pdb
+C:\repos\C#\FibonacciNumbers\FibonacciNumbers\obj\Debug\net6.0\FibonacciNumbers.csproj.AssemblyReference.cache
+C:\repos\C#\FibonacciNumbers\FibonacciNumbers\obj\Debug\net6.0\FibonacciNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\FibonacciNumbers\FibonacciNumbers\obj\Debug\net6.0\FibonacciNumbers.AssemblyInfoInputs.cache
+C:\repos\C#\FibonacciNumbers\FibonacciNumbers\obj\Debug\net6.0\FibonacciNumbers.AssemblyInfo.cs
+C:\repos\C#\FibonacciNumbers\FibonacciNumbers\obj\Debug\net6.0\FibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\repos\C#\FibonacciNumbers\FibonacciNumbers\obj\Debug\net6.0\FibonacciNumbers.dll
+C:\repos\C#\FibonacciNumbers\FibonacciNumbers\obj\Debug\net6.0\refint\FibonacciNumbers.dll
+C:\repos\C#\FibonacciNumbers\FibonacciNumbers\obj\Debug\net6.0\FibonacciNumbers.pdb
+C:\repos\C#\FibonacciNumbers\FibonacciNumbers\obj\Debug\net6.0\FibonacciNumbers.genruntimeconfig.cache
+C:\repos\C#\FibonacciNumbers\FibonacciNumbers\obj\Debug\net6.0\ref\FibonacciNumbers.dll

@@ -1,0 +1,15 @@
+C:\repos\C#\ExceptionsTutorial\ExceptionsTutorial\bin\Debug\net6.0\ExceptionsTutorial.exe
+C:\repos\C#\ExceptionsTutorial\ExceptionsTutorial\bin\Debug\net6.0\ExceptionsTutorial.deps.json
+C:\repos\C#\ExceptionsTutorial\ExceptionsTutorial\bin\Debug\net6.0\ExceptionsTutorial.runtimeconfig.json
+C:\repos\C#\ExceptionsTutorial\ExceptionsTutorial\bin\Debug\net6.0\ExceptionsTutorial.dll
+C:\repos\C#\ExceptionsTutorial\ExceptionsTutorial\bin\Debug\net6.0\ExceptionsTutorial.pdb
+C:\repos\C#\ExceptionsTutorial\ExceptionsTutorial\obj\Debug\net6.0\ExceptionsTutorial.csproj.AssemblyReference.cache
+C:\repos\C#\ExceptionsTutorial\ExceptionsTutorial\obj\Debug\net6.0\ExceptionsTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\ExceptionsTutorial\ExceptionsTutorial\obj\Debug\net6.0\ExceptionsTutorial.AssemblyInfoInputs.cache
+C:\repos\C#\ExceptionsTutorial\ExceptionsTutorial\obj\Debug\net6.0\ExceptionsTutorial.AssemblyInfo.cs
+C:\repos\C#\ExceptionsTutorial\ExceptionsTutorial\obj\Debug\net6.0\ExceptionsTutorial.csproj.CoreCompileInputs.cache
+C:\repos\C#\ExceptionsTutorial\ExceptionsTutorial\obj\Debug\net6.0\ExceptionsTutorial.dll
+C:\repos\C#\ExceptionsTutorial\ExceptionsTutorial\obj\Debug\net6.0\refint\ExceptionsTutorial.dll
+C:\repos\C#\ExceptionsTutorial\ExceptionsTutorial\obj\Debug\net6.0\ExceptionsTutorial.pdb
+C:\repos\C#\ExceptionsTutorial\ExceptionsTutorial\obj\Debug\net6.0\ExceptionsTutorial.genruntimeconfig.cache
+C:\repos\C#\ExceptionsTutorial\ExceptionsTutorial\obj\Debug\net6.0\ref\ExceptionsTutorial.dll

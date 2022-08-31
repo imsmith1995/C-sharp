@@ -1,0 +1,15 @@
+C:\repos\C#\CalculateFactorial\CalculateFactorial\bin\Debug\net6.0\CalculateFactorial.exe
+C:\repos\C#\CalculateFactorial\CalculateFactorial\bin\Debug\net6.0\CalculateFactorial.deps.json
+C:\repos\C#\CalculateFactorial\CalculateFactorial\bin\Debug\net6.0\CalculateFactorial.runtimeconfig.json
+C:\repos\C#\CalculateFactorial\CalculateFactorial\bin\Debug\net6.0\CalculateFactorial.dll
+C:\repos\C#\CalculateFactorial\CalculateFactorial\bin\Debug\net6.0\CalculateFactorial.pdb
+C:\repos\C#\CalculateFactorial\CalculateFactorial\obj\Debug\net6.0\CalculateFactorial.csproj.AssemblyReference.cache
+C:\repos\C#\CalculateFactorial\CalculateFactorial\obj\Debug\net6.0\CalculateFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\CalculateFactorial\CalculateFactorial\obj\Debug\net6.0\CalculateFactorial.AssemblyInfoInputs.cache
+C:\repos\C#\CalculateFactorial\CalculateFactorial\obj\Debug\net6.0\CalculateFactorial.AssemblyInfo.cs
+C:\repos\C#\CalculateFactorial\CalculateFactorial\obj\Debug\net6.0\CalculateFactorial.csproj.CoreCompileInputs.cache
+C:\repos\C#\CalculateFactorial\CalculateFactorial\obj\Debug\net6.0\CalculateFactorial.dll
+C:\repos\C#\CalculateFactorial\CalculateFactorial\obj\Debug\net6.0\refint\CalculateFactorial.dll
+C:\repos\C#\CalculateFactorial\CalculateFactorial\obj\Debug\net6.0\CalculateFactorial.pdb
+C:\repos\C#\CalculateFactorial\CalculateFactorial\obj\Debug\net6.0\CalculateFactorial.genruntimeconfig.cache
+C:\repos\C#\CalculateFactorial\CalculateFactorial\obj\Debug\net6.0\ref\CalculateFactorial.dll
