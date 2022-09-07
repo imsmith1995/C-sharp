@@ -1,0 +1,12 @@
+C:\repos\C#\ConnectionStringTutorial\PrsLibrary\bin\Debug\net6.0\PrsLibrary.deps.json
+C:\repos\C#\ConnectionStringTutorial\PrsLibrary\bin\Debug\net6.0\PrsLibrary.dll
+C:\repos\C#\ConnectionStringTutorial\PrsLibrary\bin\Debug\net6.0\PrsLibrary.pdb
+C:\repos\C#\ConnectionStringTutorial\PrsLibrary\obj\Debug\net6.0\PrsLibrary.csproj.AssemblyReference.cache
+C:\repos\C#\ConnectionStringTutorial\PrsLibrary\obj\Debug\net6.0\PrsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\ConnectionStringTutorial\PrsLibrary\obj\Debug\net6.0\PrsLibrary.AssemblyInfoInputs.cache
+C:\repos\C#\ConnectionStringTutorial\PrsLibrary\obj\Debug\net6.0\PrsLibrary.AssemblyInfo.cs
+C:\repos\C#\ConnectionStringTutorial\PrsLibrary\obj\Debug\net6.0\PrsLibrary.csproj.CoreCompileInputs.cache
+C:\repos\C#\ConnectionStringTutorial\PrsLibrary\obj\Debug\net6.0\PrsLibrary.dll
+C:\repos\C#\ConnectionStringTutorial\PrsLibrary\obj\Debug\net6.0\refint\PrsLibrary.dll
+C:\repos\C#\ConnectionStringTutorial\PrsLibrary\obj\Debug\net6.0\PrsLibrary.pdb
+C:\repos\C#\ConnectionStringTutorial\PrsLibrary\obj\Debug\net6.0\ref\PrsLibrary.dll

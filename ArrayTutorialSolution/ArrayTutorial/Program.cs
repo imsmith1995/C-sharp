@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿
 Console.WriteLine("Hello and welcome. I will be adding up your bowling scores.");
 
 Console.WriteLine("Please, enter the score from your first bowling game: ");

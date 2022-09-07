@@ -1,0 +1,15 @@
+C:\repos\C#\WorkingWithDictionaries\WorkingWithDictionaries\bin\Debug\net6.0\WorkingWithDictionaries.exe
+C:\repos\C#\WorkingWithDictionaries\WorkingWithDictionaries\bin\Debug\net6.0\WorkingWithDictionaries.deps.json
+C:\repos\C#\WorkingWithDictionaries\WorkingWithDictionaries\bin\Debug\net6.0\WorkingWithDictionaries.runtimeconfig.json
+C:\repos\C#\WorkingWithDictionaries\WorkingWithDictionaries\bin\Debug\net6.0\WorkingWithDictionaries.dll
+C:\repos\C#\WorkingWithDictionaries\WorkingWithDictionaries\bin\Debug\net6.0\WorkingWithDictionaries.pdb
+C:\repos\C#\WorkingWithDictionaries\WorkingWithDictionaries\obj\Debug\net6.0\WorkingWithDictionaries.csproj.AssemblyReference.cache
+C:\repos\C#\WorkingWithDictionaries\WorkingWithDictionaries\obj\Debug\net6.0\WorkingWithDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\WorkingWithDictionaries\WorkingWithDictionaries\obj\Debug\net6.0\WorkingWithDictionaries.AssemblyInfoInputs.cache
+C:\repos\C#\WorkingWithDictionaries\WorkingWithDictionaries\obj\Debug\net6.0\WorkingWithDictionaries.AssemblyInfo.cs
+C:\repos\C#\WorkingWithDictionaries\WorkingWithDictionaries\obj\Debug\net6.0\WorkingWithDictionaries.csproj.CoreCompileInputs.cache
+C:\repos\C#\WorkingWithDictionaries\WorkingWithDictionaries\obj\Debug\net6.0\WorkingWithDictionaries.dll
+C:\repos\C#\WorkingWithDictionaries\WorkingWithDictionaries\obj\Debug\net6.0\refint\WorkingWithDictionaries.dll
+C:\repos\C#\WorkingWithDictionaries\WorkingWithDictionaries\obj\Debug\net6.0\WorkingWithDictionaries.pdb
+C:\repos\C#\WorkingWithDictionaries\WorkingWithDictionaries\obj\Debug\net6.0\WorkingWithDictionaries.genruntimeconfig.cache
+C:\repos\C#\WorkingWithDictionaries\WorkingWithDictionaries\obj\Debug\net6.0\ref\WorkingWithDictionaries.dll

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Banking
 {
-    internal class Account
+    public class Account
     {
         public int AccountNo { get; set; }
         public string Description { get; set; } = String.Empty;

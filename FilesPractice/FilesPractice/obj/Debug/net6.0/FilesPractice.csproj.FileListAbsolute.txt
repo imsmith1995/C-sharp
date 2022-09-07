@@ -1,0 +1,15 @@
+C:\repos\C#\FilesPractice\FilesPractice\bin\Debug\net6.0\FilesPractice.exe
+C:\repos\C#\FilesPractice\FilesPractice\bin\Debug\net6.0\FilesPractice.deps.json
+C:\repos\C#\FilesPractice\FilesPractice\bin\Debug\net6.0\FilesPractice.runtimeconfig.json
+C:\repos\C#\FilesPractice\FilesPractice\bin\Debug\net6.0\FilesPractice.dll
+C:\repos\C#\FilesPractice\FilesPractice\bin\Debug\net6.0\FilesPractice.pdb
+C:\repos\C#\FilesPractice\FilesPractice\obj\Debug\net6.0\FilesPractice.csproj.AssemblyReference.cache
+C:\repos\C#\FilesPractice\FilesPractice\obj\Debug\net6.0\FilesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\FilesPractice\FilesPractice\obj\Debug\net6.0\FilesPractice.AssemblyInfoInputs.cache
+C:\repos\C#\FilesPractice\FilesPractice\obj\Debug\net6.0\FilesPractice.AssemblyInfo.cs
+C:\repos\C#\FilesPractice\FilesPractice\obj\Debug\net6.0\FilesPractice.csproj.CoreCompileInputs.cache
+C:\repos\C#\FilesPractice\FilesPractice\obj\Debug\net6.0\FilesPractice.dll
+C:\repos\C#\FilesPractice\FilesPractice\obj\Debug\net6.0\refint\FilesPractice.dll
+C:\repos\C#\FilesPractice\FilesPractice\obj\Debug\net6.0\FilesPractice.pdb
+C:\repos\C#\FilesPractice\FilesPractice\obj\Debug\net6.0\FilesPractice.genruntimeconfig.cache
+C:\repos\C#\FilesPractice\FilesPractice\obj\Debug\net6.0\ref\FilesPractice.dll

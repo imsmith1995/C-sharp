@@ -2,6 +2,18 @@
 
 Console.WriteLine("Banking!");
 
+SavingComp savings2 = new();
+savings2.AccountNo = 123;
+
+
+Savings savings1 = new Savings();
+savings1.Deposit(1000);
+savings1.Withdraw(500);
+savings1.InterestRate = 0.12m;
+savings1.CalcInterest(1);
+Print(savings1);
+
+
 Account checking = new Account();
 checking.AccountNo = 100;
 checking.Description = "My Checking Account";

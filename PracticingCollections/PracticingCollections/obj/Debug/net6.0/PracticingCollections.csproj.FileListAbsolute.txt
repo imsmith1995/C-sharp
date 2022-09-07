@@ -1,0 +1,15 @@
+C:\repos\C#\PracticingCollections\PracticingCollections\bin\Debug\net6.0\PracticingCollections.exe
+C:\repos\C#\PracticingCollections\PracticingCollections\bin\Debug\net6.0\PracticingCollections.deps.json
+C:\repos\C#\PracticingCollections\PracticingCollections\bin\Debug\net6.0\PracticingCollections.runtimeconfig.json
+C:\repos\C#\PracticingCollections\PracticingCollections\bin\Debug\net6.0\PracticingCollections.dll
+C:\repos\C#\PracticingCollections\PracticingCollections\bin\Debug\net6.0\PracticingCollections.pdb
+C:\repos\C#\PracticingCollections\PracticingCollections\obj\Debug\net6.0\PracticingCollections.csproj.AssemblyReference.cache
+C:\repos\C#\PracticingCollections\PracticingCollections\obj\Debug\net6.0\PracticingCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\PracticingCollections\PracticingCollections\obj\Debug\net6.0\PracticingCollections.AssemblyInfoInputs.cache
+C:\repos\C#\PracticingCollections\PracticingCollections\obj\Debug\net6.0\PracticingCollections.AssemblyInfo.cs
+C:\repos\C#\PracticingCollections\PracticingCollections\obj\Debug\net6.0\PracticingCollections.csproj.CoreCompileInputs.cache
+C:\repos\C#\PracticingCollections\PracticingCollections\obj\Debug\net6.0\PracticingCollections.dll
+C:\repos\C#\PracticingCollections\PracticingCollections\obj\Debug\net6.0\refint\PracticingCollections.dll
+C:\repos\C#\PracticingCollections\PracticingCollections\obj\Debug\net6.0\PracticingCollections.pdb
+C:\repos\C#\PracticingCollections\PracticingCollections\obj\Debug\net6.0\PracticingCollections.genruntimeconfig.cache
+C:\repos\C#\PracticingCollections\PracticingCollections\obj\Debug\net6.0\ref\PracticingCollections.dll

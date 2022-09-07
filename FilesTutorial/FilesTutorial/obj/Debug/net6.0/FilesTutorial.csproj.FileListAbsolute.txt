@@ -1,0 +1,15 @@
+C:\repos\C#\FilesTutorial\FilesTutorial\bin\Debug\net6.0\FilesTutorial.exe
+C:\repos\C#\FilesTutorial\FilesTutorial\bin\Debug\net6.0\FilesTutorial.deps.json
+C:\repos\C#\FilesTutorial\FilesTutorial\bin\Debug\net6.0\FilesTutorial.runtimeconfig.json
+C:\repos\C#\FilesTutorial\FilesTutorial\bin\Debug\net6.0\FilesTutorial.dll
+C:\repos\C#\FilesTutorial\FilesTutorial\bin\Debug\net6.0\FilesTutorial.pdb
+C:\repos\C#\FilesTutorial\FilesTutorial\obj\Debug\net6.0\FilesTutorial.csproj.AssemblyReference.cache
+C:\repos\C#\FilesTutorial\FilesTutorial\obj\Debug\net6.0\FilesTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\FilesTutorial\FilesTutorial\obj\Debug\net6.0\FilesTutorial.AssemblyInfoInputs.cache
+C:\repos\C#\FilesTutorial\FilesTutorial\obj\Debug\net6.0\FilesTutorial.AssemblyInfo.cs
+C:\repos\C#\FilesTutorial\FilesTutorial\obj\Debug\net6.0\FilesTutorial.csproj.CoreCompileInputs.cache
+C:\repos\C#\FilesTutorial\FilesTutorial\obj\Debug\net6.0\FilesTutorial.dll
+C:\repos\C#\FilesTutorial\FilesTutorial\obj\Debug\net6.0\refint\FilesTutorial.dll
+C:\repos\C#\FilesTutorial\FilesTutorial\obj\Debug\net6.0\FilesTutorial.pdb
+C:\repos\C#\FilesTutorial\FilesTutorial\obj\Debug\net6.0\FilesTutorial.genruntimeconfig.cache
+C:\repos\C#\FilesTutorial\FilesTutorial\obj\Debug\net6.0\ref\FilesTutorial.dll

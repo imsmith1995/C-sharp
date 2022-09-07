@@ -1,0 +1,15 @@
+C:\repos\C#\GenericCollectionsTutorial\GenericCollectionsTutorial\bin\Debug\net6.0\GenericCollectionsTutorial.exe
+C:\repos\C#\GenericCollectionsTutorial\GenericCollectionsTutorial\bin\Debug\net6.0\GenericCollectionsTutorial.deps.json
+C:\repos\C#\GenericCollectionsTutorial\GenericCollectionsTutorial\bin\Debug\net6.0\GenericCollectionsTutorial.runtimeconfig.json
+C:\repos\C#\GenericCollectionsTutorial\GenericCollectionsTutorial\bin\Debug\net6.0\GenericCollectionsTutorial.dll
+C:\repos\C#\GenericCollectionsTutorial\GenericCollectionsTutorial\bin\Debug\net6.0\GenericCollectionsTutorial.pdb
+C:\repos\C#\GenericCollectionsTutorial\GenericCollectionsTutorial\obj\Debug\net6.0\GenericCollectionsTutorial.csproj.AssemblyReference.cache
+C:\repos\C#\GenericCollectionsTutorial\GenericCollectionsTutorial\obj\Debug\net6.0\GenericCollectionsTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\GenericCollectionsTutorial\GenericCollectionsTutorial\obj\Debug\net6.0\GenericCollectionsTutorial.AssemblyInfoInputs.cache
+C:\repos\C#\GenericCollectionsTutorial\GenericCollectionsTutorial\obj\Debug\net6.0\GenericCollectionsTutorial.AssemblyInfo.cs
+C:\repos\C#\GenericCollectionsTutorial\GenericCollectionsTutorial\obj\Debug\net6.0\GenericCollectionsTutorial.csproj.CoreCompileInputs.cache
+C:\repos\C#\GenericCollectionsTutorial\GenericCollectionsTutorial\obj\Debug\net6.0\GenericCollectionsTutorial.dll
+C:\repos\C#\GenericCollectionsTutorial\GenericCollectionsTutorial\obj\Debug\net6.0\refint\GenericCollectionsTutorial.dll
+C:\repos\C#\GenericCollectionsTutorial\GenericCollectionsTutorial\obj\Debug\net6.0\GenericCollectionsTutorial.pdb
+C:\repos\C#\GenericCollectionsTutorial\GenericCollectionsTutorial\obj\Debug\net6.0\GenericCollectionsTutorial.genruntimeconfig.cache
+C:\repos\C#\GenericCollectionsTutorial\GenericCollectionsTutorial\obj\Debug\net6.0\ref\GenericCollectionsTutorial.dll

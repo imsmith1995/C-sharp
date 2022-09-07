@@ -1,0 +1,15 @@
+C:\repos\C#\PracticingCoding\PracticingCoding\obj\Debug\net6.0\PracticingCoding.csproj.AssemblyReference.cache
+C:\repos\C#\PracticingCoding\PracticingCoding\obj\Debug\net6.0\PracticingCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\PracticingCoding\PracticingCoding\obj\Debug\net6.0\PracticingCoding.AssemblyInfoInputs.cache
+C:\repos\C#\PracticingCoding\PracticingCoding\obj\Debug\net6.0\PracticingCoding.AssemblyInfo.cs
+C:\repos\C#\PracticingCoding\PracticingCoding\obj\Debug\net6.0\PracticingCoding.csproj.CoreCompileInputs.cache
+C:\repos\C#\PracticingCoding\PracticingCoding\bin\Debug\net6.0\PracticingCoding.exe
+C:\repos\C#\PracticingCoding\PracticingCoding\bin\Debug\net6.0\PracticingCoding.deps.json
+C:\repos\C#\PracticingCoding\PracticingCoding\bin\Debug\net6.0\PracticingCoding.runtimeconfig.json
+C:\repos\C#\PracticingCoding\PracticingCoding\bin\Debug\net6.0\PracticingCoding.dll
+C:\repos\C#\PracticingCoding\PracticingCoding\bin\Debug\net6.0\PracticingCoding.pdb
+C:\repos\C#\PracticingCoding\PracticingCoding\obj\Debug\net6.0\PracticingCoding.dll
+C:\repos\C#\PracticingCoding\PracticingCoding\obj\Debug\net6.0\refint\PracticingCoding.dll
+C:\repos\C#\PracticingCoding\PracticingCoding\obj\Debug\net6.0\PracticingCoding.pdb
+C:\repos\C#\PracticingCoding\PracticingCoding\obj\Debug\net6.0\PracticingCoding.genruntimeconfig.cache
+C:\repos\C#\PracticingCoding\PracticingCoding\obj\Debug\net6.0\ref\PracticingCoding.dll

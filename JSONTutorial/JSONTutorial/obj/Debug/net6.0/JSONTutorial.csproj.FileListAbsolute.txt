@@ -1,0 +1,15 @@
+C:\repos\C#\JSONTutorial\JSONTutorial\bin\Debug\net6.0\JSONTutorial.exe
+C:\repos\C#\JSONTutorial\JSONTutorial\bin\Debug\net6.0\JSONTutorial.deps.json
+C:\repos\C#\JSONTutorial\JSONTutorial\bin\Debug\net6.0\JSONTutorial.runtimeconfig.json
+C:\repos\C#\JSONTutorial\JSONTutorial\bin\Debug\net6.0\JSONTutorial.dll
+C:\repos\C#\JSONTutorial\JSONTutorial\bin\Debug\net6.0\JSONTutorial.pdb
+C:\repos\C#\JSONTutorial\JSONTutorial\obj\Debug\net6.0\JSONTutorial.csproj.AssemblyReference.cache
+C:\repos\C#\JSONTutorial\JSONTutorial\obj\Debug\net6.0\JSONTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\JSONTutorial\JSONTutorial\obj\Debug\net6.0\JSONTutorial.AssemblyInfoInputs.cache
+C:\repos\C#\JSONTutorial\JSONTutorial\obj\Debug\net6.0\JSONTutorial.AssemblyInfo.cs
+C:\repos\C#\JSONTutorial\JSONTutorial\obj\Debug\net6.0\JSONTutorial.csproj.CoreCompileInputs.cache
+C:\repos\C#\JSONTutorial\JSONTutorial\obj\Debug\net6.0\JSONTutorial.dll
+C:\repos\C#\JSONTutorial\JSONTutorial\obj\Debug\net6.0\refint\JSONTutorial.dll
+C:\repos\C#\JSONTutorial\JSONTutorial\obj\Debug\net6.0\JSONTutorial.pdb
+C:\repos\C#\JSONTutorial\JSONTutorial\obj\Debug\net6.0\JSONTutorial.genruntimeconfig.cache
+C:\repos\C#\JSONTutorial\JSONTutorial\obj\Debug\net6.0\ref\JSONTutorial.dll

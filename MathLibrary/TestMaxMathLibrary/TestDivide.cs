@@ -15,6 +15,15 @@ namespace TestMaxMathLibrary
         {
             mathlib = new MaxMathLibrary();
         }
+
+        [Theory]
+        [InlineData(0, 0)]
+        public void TestDivideByZero(int a, int b)
+        {
+            Action divideByZero = () => mathlib.Divide(a, b);
+            Assert.Throws<DivideByZeroException>(divideByZero);
+        }
+
         [Theory]
         [InlineData(10, 5, 2)]
         [InlineData(20, 4, 5)]

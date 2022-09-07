@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics;
+using System.Globalization;
 
 string folderPath = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
 //var streamWriter = File.CreateText(Path.Combine(folderPath, "appTrace.log"));
@@ -23,8 +24,8 @@ Console.WriteLine($"{b},");
 while (c < 100)
 {
     c = Add(a, b);
-    Debug.WriteLine($"a = {a}, b = {b}, c = {c}");
-    Trace.TraceInformation($"a = {a}, b = {b}, c = {c}");
+    //Debug.WriteLine($"a = {a}, b = {b}, c = {c}");
+    //Trace.TraceInformation($"a = {a}, b = {b}, c = {c}");
     Console.WriteLine($"{c},");
 
     a = b;
@@ -37,3 +38,16 @@ int Add(int a, int b)
 }
 
 //Try to make it Fibonacci Sequence Recursively
+
+int j = 1;
+int k = 1;
+Fib(1, 1);
+
+void Fib(int j, int k)
+{
+    var c = j + k;
+    if (c > 100) return;
+    Console.WriteLine($"{c}, ");
+    Fib(k, c);
+
+}

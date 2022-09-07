@@ -1,0 +1,15 @@
+C:\repos\C#\WorkingWithCollections\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.exe
+C:\repos\C#\WorkingWithCollections\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.deps.json
+C:\repos\C#\WorkingWithCollections\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.runtimeconfig.json
+C:\repos\C#\WorkingWithCollections\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.dll
+C:\repos\C#\WorkingWithCollections\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.pdb
+C:\repos\C#\WorkingWithCollections\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.csproj.AssemblyReference.cache
+C:\repos\C#\WorkingWithCollections\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\WorkingWithCollections\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.AssemblyInfoInputs.cache
+C:\repos\C#\WorkingWithCollections\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.AssemblyInfo.cs
+C:\repos\C#\WorkingWithCollections\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.csproj.CoreCompileInputs.cache
+C:\repos\C#\WorkingWithCollections\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.dll
+C:\repos\C#\WorkingWithCollections\WorkingWithCollections\obj\Debug\net6.0\refint\WorkingWithCollections.dll
+C:\repos\C#\WorkingWithCollections\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.pdb
+C:\repos\C#\WorkingWithCollections\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.genruntimeconfig.cache
+C:\repos\C#\WorkingWithCollections\WorkingWithCollections\obj\Debug\net6.0\ref\WorkingWithCollections.dll

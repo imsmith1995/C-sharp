@@ -1,0 +1,15 @@
+C:\repos\C#\InterfacesTutorial\InterfacesTutorial\bin\Debug\net6.0\InterfacesTutorial.exe
+C:\repos\C#\InterfacesTutorial\InterfacesTutorial\bin\Debug\net6.0\InterfacesTutorial.deps.json
+C:\repos\C#\InterfacesTutorial\InterfacesTutorial\bin\Debug\net6.0\InterfacesTutorial.runtimeconfig.json
+C:\repos\C#\InterfacesTutorial\InterfacesTutorial\bin\Debug\net6.0\InterfacesTutorial.dll
+C:\repos\C#\InterfacesTutorial\InterfacesTutorial\bin\Debug\net6.0\InterfacesTutorial.pdb
+C:\repos\C#\InterfacesTutorial\InterfacesTutorial\obj\Debug\net6.0\InterfacesTutorial.csproj.AssemblyReference.cache
+C:\repos\C#\InterfacesTutorial\InterfacesTutorial\obj\Debug\net6.0\InterfacesTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\InterfacesTutorial\InterfacesTutorial\obj\Debug\net6.0\InterfacesTutorial.AssemblyInfoInputs.cache
+C:\repos\C#\InterfacesTutorial\InterfacesTutorial\obj\Debug\net6.0\InterfacesTutorial.AssemblyInfo.cs
+C:\repos\C#\InterfacesTutorial\InterfacesTutorial\obj\Debug\net6.0\InterfacesTutorial.csproj.CoreCompileInputs.cache
+C:\repos\C#\InterfacesTutorial\InterfacesTutorial\obj\Debug\net6.0\InterfacesTutorial.dll
+C:\repos\C#\InterfacesTutorial\InterfacesTutorial\obj\Debug\net6.0\refint\InterfacesTutorial.dll
+C:\repos\C#\InterfacesTutorial\InterfacesTutorial\obj\Debug\net6.0\InterfacesTutorial.pdb
+C:\repos\C#\InterfacesTutorial\InterfacesTutorial\obj\Debug\net6.0\InterfacesTutorial.genruntimeconfig.cache
+C:\repos\C#\InterfacesTutorial\InterfacesTutorial\obj\Debug\net6.0\ref\InterfacesTutorial.dll
