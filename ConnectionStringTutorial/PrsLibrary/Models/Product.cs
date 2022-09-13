@@ -19,7 +19,7 @@ namespace PrsLibrary.Models
         public virtual Vendor Vendor { get; set; }
 
         public static string SqlSelectAll = 
-            "SELECT *from Products; ";
+            "SELECT * from Products; ";
         public static string SqlSelectByPk = "SELECT * from Products where Id = @Id;";
         public static string SqlDelete = $"DELETE from Products Where id = @id;";
         public static string SqlInsert =

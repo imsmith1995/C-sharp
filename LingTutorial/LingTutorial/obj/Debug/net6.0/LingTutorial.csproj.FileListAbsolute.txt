@@ -1,0 +1,15 @@
+C:\repos\C#\LingTutorial\LingTutorial\bin\Debug\net6.0\LingTutorial.exe
+C:\repos\C#\LingTutorial\LingTutorial\bin\Debug\net6.0\LingTutorial.deps.json
+C:\repos\C#\LingTutorial\LingTutorial\bin\Debug\net6.0\LingTutorial.runtimeconfig.json
+C:\repos\C#\LingTutorial\LingTutorial\bin\Debug\net6.0\LingTutorial.dll
+C:\repos\C#\LingTutorial\LingTutorial\bin\Debug\net6.0\LingTutorial.pdb
+C:\repos\C#\LingTutorial\LingTutorial\obj\Debug\net6.0\LingTutorial.csproj.AssemblyReference.cache
+C:\repos\C#\LingTutorial\LingTutorial\obj\Debug\net6.0\LingTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\LingTutorial\LingTutorial\obj\Debug\net6.0\LingTutorial.AssemblyInfoInputs.cache
+C:\repos\C#\LingTutorial\LingTutorial\obj\Debug\net6.0\LingTutorial.AssemblyInfo.cs
+C:\repos\C#\LingTutorial\LingTutorial\obj\Debug\net6.0\LingTutorial.csproj.CoreCompileInputs.cache
+C:\repos\C#\LingTutorial\LingTutorial\obj\Debug\net6.0\LingTutorial.dll
+C:\repos\C#\LingTutorial\LingTutorial\obj\Debug\net6.0\refint\LingTutorial.dll
+C:\repos\C#\LingTutorial\LingTutorial\obj\Debug\net6.0\LingTutorial.pdb
+C:\repos\C#\LingTutorial\LingTutorial\obj\Debug\net6.0\LingTutorial.genruntimeconfig.cache
+C:\repos\C#\LingTutorial\LingTutorial\obj\Debug\net6.0\ref\LingTutorial.dll

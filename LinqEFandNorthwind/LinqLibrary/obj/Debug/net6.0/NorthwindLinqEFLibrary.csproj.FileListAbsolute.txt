@@ -1,0 +1,14 @@
+C:\repos\C#\LinqEFandNorthwind\LinqLibrary\bin\Debug\net6.0\NorthwindLinqEFLibrary.deps.json
+C:\repos\C#\LinqEFandNorthwind\LinqLibrary\bin\Debug\net6.0\NorthwindLinqEFLibrary.runtimeconfig.json
+C:\repos\C#\LinqEFandNorthwind\LinqLibrary\bin\Debug\net6.0\NorthwindLinqEFLibrary.dll
+C:\repos\C#\LinqEFandNorthwind\LinqLibrary\bin\Debug\net6.0\NorthwindLinqEFLibrary.pdb
+C:\repos\C#\LinqEFandNorthwind\LinqLibrary\obj\Debug\net6.0\NorthwindLinqEFLibrary.csproj.AssemblyReference.cache
+C:\repos\C#\LinqEFandNorthwind\LinqLibrary\obj\Debug\net6.0\NorthwindLinqEFLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\LinqEFandNorthwind\LinqLibrary\obj\Debug\net6.0\NorthwindLinqEFLibrary.AssemblyInfoInputs.cache
+C:\repos\C#\LinqEFandNorthwind\LinqLibrary\obj\Debug\net6.0\NorthwindLinqEFLibrary.AssemblyInfo.cs
+C:\repos\C#\LinqEFandNorthwind\LinqLibrary\obj\Debug\net6.0\NorthwindLinqEFLibrary.csproj.CoreCompileInputs.cache
+C:\repos\C#\LinqEFandNorthwind\LinqLibrary\obj\Debug\net6.0\NorthwindLinqEFLibrary.dll
+C:\repos\C#\LinqEFandNorthwind\LinqLibrary\obj\Debug\net6.0\refint\NorthwindLinqEFLibrary.dll
+C:\repos\C#\LinqEFandNorthwind\LinqLibrary\obj\Debug\net6.0\NorthwindLinqEFLibrary.pdb
+C:\repos\C#\LinqEFandNorthwind\LinqLibrary\obj\Debug\net6.0\NorthwindLinqEFLibrary.genruntimeconfig.cache
+C:\repos\C#\LinqEFandNorthwind\LinqLibrary\obj\Debug\net6.0\ref\NorthwindLinqEFLibrary.dll

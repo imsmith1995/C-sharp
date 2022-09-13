@@ -6,15 +6,23 @@ using PrsLibrary.Models;
 Connection connection = new();
 connection.Connect();
 
-UsersController userCtrl = new(connection);
+RequestsController requCtrl = new(connection);
 
-User? u = userCtrl.Login("sa", "sax");
-if (u is not null)
-    Console.WriteLine($"{u.Id} | {u.Username} | {u.Firstname} {u.Lastname}");
-else
-    Console.WriteLine("Login Failed: User or Password not found.");
+IEnumerable<Request> requests = requCtrl.GetAll();
+foreach (Request r in requests)
+{
+    Console.WriteLine($"{r.Description} | {r.Status} | {r.Total}");
+}
+
 
 connection.Disconnect();
+
+//User? u = userCtrl.Login("sa", "sax");
+//if (u is not null)
+//    Console.WriteLine($"{u.Id} | {u.Username} | {u.Firstname} {u.Lastname}");
+//else
+//    Console.WriteLine("Login Failed: User or Password not found.");
+
 
 //IEnumerable<Product> products = prodCtrl.GetAll();
 //foreach(Product p in products)

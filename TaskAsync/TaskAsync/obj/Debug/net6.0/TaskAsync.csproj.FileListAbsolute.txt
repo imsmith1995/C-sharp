@@ -1,0 +1,15 @@
+C:\repos\C#\TaskAsync\TaskAsync\bin\Debug\net6.0\TaskAsync.exe
+C:\repos\C#\TaskAsync\TaskAsync\bin\Debug\net6.0\TaskAsync.deps.json
+C:\repos\C#\TaskAsync\TaskAsync\bin\Debug\net6.0\TaskAsync.runtimeconfig.json
+C:\repos\C#\TaskAsync\TaskAsync\bin\Debug\net6.0\TaskAsync.dll
+C:\repos\C#\TaskAsync\TaskAsync\bin\Debug\net6.0\TaskAsync.pdb
+C:\repos\C#\TaskAsync\TaskAsync\obj\Debug\net6.0\TaskAsync.csproj.AssemblyReference.cache
+C:\repos\C#\TaskAsync\TaskAsync\obj\Debug\net6.0\TaskAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\C#\TaskAsync\TaskAsync\obj\Debug\net6.0\TaskAsync.AssemblyInfoInputs.cache
+C:\repos\C#\TaskAsync\TaskAsync\obj\Debug\net6.0\TaskAsync.AssemblyInfo.cs
+C:\repos\C#\TaskAsync\TaskAsync\obj\Debug\net6.0\TaskAsync.csproj.CoreCompileInputs.cache
+C:\repos\C#\TaskAsync\TaskAsync\obj\Debug\net6.0\TaskAsync.dll
+C:\repos\C#\TaskAsync\TaskAsync\obj\Debug\net6.0\refint\TaskAsync.dll
+C:\repos\C#\TaskAsync\TaskAsync\obj\Debug\net6.0\TaskAsync.pdb
+C:\repos\C#\TaskAsync\TaskAsync\obj\Debug\net6.0\TaskAsync.genruntimeconfig.cache
+C:\repos\C#\TaskAsync\TaskAsync\obj\Debug\net6.0\ref\TaskAsync.dll
